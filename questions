@@ -1,0 +1,726 @@
+1
+Read two numbers and print their sum, difference, product, quotient, and remainder
+Resource Link
+ 
+ 
+2
+Calculate the area of a circle given radius (A = πr²)
+Resource Link
+ 
+ 
+3
+Calculate simple interest given P, R, T → (P × R × T) / 100
+Resource Link
+ 
+ 
+4
+Convert temperature from Celsius to Fahrenheit and vice versa
+Resource Link
+ 
+ 
+5
+Divisibility Check : Check whether a number is divisible by 3, 5, both, or neither.
+Resource Link
+ 
+Relational & Logical Operators
+ 
+6
+Read two numbers and print which is greater (use relational operators)
+Resource Link
+ 
+ 
+7
+Check if a number is positive, negative, or zero
+Resource Link
+ 
+ 
+8
+Read three numbers and check if all three are equal (use && )
+Resource Link
+ 
+ 
+9
+Read age and check eligibility to vote (age ≥ 18)
+Resource Link
+ 
+ 
+10
+Check if a character is uppercase, lowercase, digit, or special character
+Resource Link
+ 
+Bitwise Operators
+11
+Check if a number is even or odd using bitwise AND ( n & 1 )
+Resource Link
+ 
+ 
+12
+Swap two numbers using XOR
+Resource Link
+ 
+ 
+13
+Find the value of n << 1 and n >> 1 — relate to multiply/divide by 2
+Resource Link
+ 
+ 
+14
+Check if the Kth bit of a number is set or not
+Resource Link
+ 
+ 
+15
+Count the number of set bits in a number
+Resource Link
+Conditional Statements
+ 
+if / if-else
+16
+Check if a number is even or odd
+Resource Link
+ 
+ 
+17
+Check if a year is a leap year
+Resource Link
+ 
+ 
+18
+Find the largest of two numbers
+Resource Link
+ 
+ 
+19
+Find the largest of three numbers
+Resource Link
+ 
+ 
+20
+Check if a character is a vowel or consonant
+Resource Link
+ 
+ 
+21
+Ticket Pricing : Calculate ticket price based on the customer's age.
+Resource Link
+ 
+ 
+22
+Age Category : Classify a person as a child, teenager, adult, or senior based on age.
+Resource Link
+ 
+ 
+23
+Time Greeting : Given an hour, print Morning, Afternoon, Evening, or Night.
+Resource Link
+ 
+ 
+24
+Login Validator : Check whether a username and password combination is valid.
+Resource Link
+ 
+if-else if-else (Ladder)
+25
+Given marks (0–100), print grade: A (≥90), B (≥80), C (≥70), D (≥60), F (<60)
+Resource Link
+ 
+ 
+26
+Read a number (1–7) and print the corresponding day of the week
+Resource Link
+ 
+ 
+27
+Calculate electricity bill based on slab rates
+Resource Link
+ 
+ 
+28
+Check if a triangle is equilateral, isosceles, or scalene given 3 sides
+Resource Link
+ 
+ 
+29
+Given 3 sides, check if a valid triangle can be formed
+Resource Link
+ 
+Nested if & switch-case
+30
+Build a simple calculator (+, −, ×, ÷) using switch-case
+Resource Link
+ 
+ 
+31
+Read month number (1–12) and print number of days in that month
+Resource Link
+ 
+ 
+32
+Check if a number is positive, negative, or zero — then if positive check even/odd
+Resource Link
+ 
+ 
+33
+Given 3 numbers, print them in ascending order using only if-else
+Resource Link
+ 
+ 
+34
+Find the roots of a quadratic equation (check discriminant: real, equal, imaginary)
+Resource Link
+ 
+Mixed / Applied
+35
+Check if a given character is an alphabet, digit, or special character
+Resource Link
+ 
+ 
+36
+Read the cost price and selling price — print profit, loss, or no profit no loss
+Resource Link
+ 
+ 
+37
+Given coordinates (x, y), determine which quadrant the point lies in
+Resource Link
+ 
+ 
+38
+Check if a 3-digit number is an Armstrong number (e.g., 153)
+Resource Link
+ 
+ 
+39
+Given hours worked and rate, compute salary with overtime (>40 hrs at 1.5× rate)
+Resource Link
+ 
+ 
+40
+ATM Withdrawal : Approve or reject a withdrawal based on amount, balance, and minimum-balance rules.
+Resource Link
+ 
+ 
+41
+Clock Angle : Given hour and minute, calculate the smaller angle between the two hands.
+Resource Link
+ 
+ 
+42
+Scholarship Eligibility : Determine eligibility based on marks, attendance, and family income.
+Resource Link
+Loops
+Basic Counting & Iteration
+ 
+43
+Print numbers from 1 to N
+Resource Link
+ 
+ 
+44
+Print numbers from N to 1
+Resource Link
+ 
+ 
+45
+Print all even numbers from 1 to N
+Resource Link
+ 
+ 
+46
+Print all odd numbers from 1 to N
+Resource Link
+ 
+ 
+47
+Calculate the sum of first N natural numbers
+Resource Link
+ 
+Digit-Based Problems
+ 
+48
+Count the number of digits in a number
+Resource Link
+ 
+ 
+49
+Find the sum of digits of a number
+Resource Link
+ 
+ 
+50
+Reverse a number
+Resource Link
+ 
+ 
+51
+Check if a number is a palindrome
+Resource Link
+ 
+ 
+52
+Happy Number: Repeatedly replace a number with the sum of the squares of its digits. Determine whether it eventually reaches 1.
+Resource Link
+ 
+ 
+53
+Product of Digits: Find the product of all digits of a number using recursion.
+Resource Link
+ 
+ 
+54
+Extract and print each digit of a number from left to right
+Resource Link
+ 
+Math / Number Theory
+55
+Find factorial of N
+Resource Link
+ 
+ 
+56
+Check if a number is prime
+Resource Link
+ 
+ 
+57
+Print all prime numbers from 1 to N
+Resource Link
+ 
+ 
+58
+Find GCD / HCF of two numbers
+Resource Link
+ 
+ 
+59
+Find LCM of two numbers
+Resource Link
+ 
+Series & Patterns (Single Loop)
+60
+Print Fibonacci series up to N terms
+Resource Link
+ 
+ 
+61
+Compute the sum: 1 + 1/2 + 1/3 + ... + 1/N
+Resource Link
+ 
+ 
+62
+Compute: 1 − 2 + 3 − 4 + 5 − ... up to N terms
+Resource Link
+ 
+ 
+63
+Find x^n (power) without using built-in pow function
+Resource Link
+ 
+ 
+64
+Compute: 1! + 2! + 3! + ... + N!
+Resource Link
+ 
+Applied / Mixed Loop Problems
+ 
+65
+Print the multiplication table of a given number
+Resource Link
+ 
+ 
+66
+Find the sum of even and odd numbers separately from 1 to N
+Resource Link
+ 
+ 
+67
+Check if a number is an Armstrong number (generalized for any digits)
+Resource Link
+ 
+ 
+68
+Find the largest and smallest digit in a number
+Resource Link
+ 
+ 
+69
+Print all factors / divisors of a number
+Resource Link
+ 
+ 
+70
+Check if a number is a perfect number (sum of divisors == number)
+Resource Link
+ 
+ 
+71
+Convert decimal to binary
+Resource Link
+ 
+ 
+72
+Convert binary to decimal
+Resource Link
+ 
+ 
+73
+Read numbers until user enters −1, print the count and average
+Resource Link
+ 
+ 
+74
+Find the sum of a series: x − x³/3! + x⁵/5! − x⁷/7! ... (sin series)
+Resource Link
+ 
+ 
+75
+Palindrome Check: Check whether a string is a palindrome using recursion
+Resource Link
+ 
+ 
+76
+Count Vowels: Count the number of vowels in a string using recursion.
+Resource Link
+ 
+ 
+77
+Increasing + Decreasing: Using a single recursive function, print numbers in increasing order and then decreasing order.
+Resource Link
+Nested Loops / Inner For Loops - Patterns
+Star Patterns
+78
+Right-angled triangle (stars)
+*
+**
+***
+****
+Resource Link
+ 
+ 
+79
+Inverted right-angled triangle
+****
+***
+**
+*
+Resource Link
+ 
+ 
+80
+Right-aligned triangle
+  *
+ **
+***
+****
+Resource Link
+ 
+ 
+81
+Inverted right-aligned triangle
+****
+***
+ **
+  *
+Resource Link
+ 
+ 
+82
+Pyramid (centered)
+  *
+ ***
+*****
+*******
+Resource Link
+ 
+ 
+83
+Inverted pyramid
+*******
+*****
+ ***
+  *
+Resource Link
+ 
+ 
+84
+Diamond shape
+  *
+ ***
+*****
+*******
+*****
+ ***
+  *
+Resource Link
+ 
+ 
+85
+Hollow rectangle
+* * * * *
+*       *
+*       *
+* * * * *
+Resource Link
+ 
+ 
+86
+Hollow right-angled triangle
+*
+**
+* *
+****
+Resource Link
+ 
+ 
+87
+Sandglass / Hourglass
+*******
+*****
+***
+*
+***
+*****
+*******
+Resource Link
+ 
+Number Patterns
+ 
+88
+Number triangle (row-wise)
+1
+2 2
+3 3 3
+4 4 4 4
+Resource Link
+ 
+ 
+89
+Sequential number triangle
+1
+2 3
+4 5 6
+7 8 9 10
+Resource Link
+ 
+ 
+90
+Floyd's triangle
+1
+2  3
+4  5  6
+7  8  9  10
+Resource Link
+ 
+ 
+91
+1-0 alternating triangle
+1
+1 0
+1 0 1
+1 0 1 0
+Resource Link
+ 
+ 
+92
+Pascal's triangle
+     1
+   1   1
+ 1   2   1
+1   3   3   1
+Resource Link
+ 
+ 
+93
+Number pyramid (centered)
+     1
+   1 2 3
+ 1 2 3 4 5
+1 2 3 4 5 6 7
+Resource Link
+ 
+ 
+94
+Inverted number triangle
+1 2 3 4
+1 2 3
+1 2
+1
+Resource Link
+ 
+ 
+95
+Column-wise incrementing
+1
+1 2
+1 2 3
+1 2 3 4
+Resource Link
+ 
+ 
+96
+Reverse number triangle
+4 3 2 1
+3 2 1
+2 1
+1
+Resource Link
+ 
+ 
+97
+Binary number triangle
+0
+0 1
+0 1 0
+0 1 0 1
+Resource Link
+ 
+Alphabet Patterns
+ 
+98
+Alphabet triangle (row repeat)
+A
+B B
+C C C
+D D D D
+Resource Link
+ 
+ 
+99
+Alphabet triangle (sequential)
+A
+A B
+A B C
+A B C D
+Resource Link
+ 
+ 
+100
+Reverse alphabet triangle
+A B C D
+A B C
+A B
+A
+Resource Link
+ 
+ 
+101
+Right-aligned alphabet triangle
+     A
+   A B
+ A B C
+A B C D
+Resource Link
+ 
+ 
+102
+Alphabet pyramid (centered)
+     A
+   A B A
+ A B C B A
+A B C D C B A
+Resource Link
+ 
+Advanced Patterns (Nested Logic)
+ 
+103
+Butterfly pattern
+*          *
+*        * *
+* *    * * *
+* * ** * * *
+* *    * * *
+*        * *
+*          *
+Resource Link
+ 
+ 
+104
+Hollow diamond inside rectangle
+* * * * * * *
+* * *   * * *
+* *       * *
+*           *
+* *       * *
+* * *   * * *
+* * * * * * *
+Resource Link
+ 
+ 
+105
+Number diamond
+     1
+   1 2 1
+ 1 2 3 2 1
+1 2 3 4 3 2 1
+ 1 2 3 2 1
+   1 2 1
+     1
+Resource Link
+ 
+ 
+106
+Zigzag pattern
+* * * *
+  *
+* * * *
+Resource Link
+ 
+ 
+107
+Spiral number matrix (4×4)
+1   2   3   4
+12  13  14   5
+11  16  15   6
+10   9   8   7
+Resource Link
+ 
+ 
+108
+Right arrow pattern
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+Resource Link
+ 
+ 
+109
+X pattern
+*     *
+*     *
+  *
+*     *
+*     *
+Resource Link
+ 
+ 
+110
+Plus (+) pattern
+   *
+   *
+* * * * *
+   *
+   *
+Resource Link
+ 
+ 
+111
+Heart shape pattern
+*     *
+* * * * * *
+* * * * * * *
+* * * * * *
+* * * *
+     *
+Resource Link
+ 
+ 
+112
+Square with diagonals marked
+* * * * *
+* *   * *
+*   *   *
+*
