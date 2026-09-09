@@ -1,5 +1,0 @@
-p = int(input("Enter percentage:"))
-t = int(input("Enter time"))
-r = int(input("Enter rate"))
-interest = (p * t * r) / 100
-print("Simple Interest:", interest)
